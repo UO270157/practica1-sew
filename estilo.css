@@ -1,14 +1,37 @@
+/*001*/
 body {
-      font: 400 15px Tahoma, sans-serif; /*Familia sans-serif*/
+      text-align:center;
+      font: 400 20px verdana;
       line-height: 1.8;
-      color: #818181;
+      background-color: #fff;
 }
+/*001*/
 h1 {
-      background-color:#FF5733; 
+      text-align:center;
+      background-color:#28be73; 
       color: #fff;
       text-transform: uppercase;
       padding: 100px 25px;
       text-align: center;     
+}
+/*001*/
+a{
+      text-decoration:none;
+      color: #222222;
+}
+/*001*/
+nav{
+	border:5px solid #28be73;
+}
+/*001*/
+li{
+      list-style: none;
+}
+/*011*/
+li:hover {
+      background-color: #87BACC;
+      width: 10%;
+      margin-left: 45%;
 }
 
 

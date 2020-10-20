@@ -1,0 +1,88 @@
+/*001*/
+body {
+    line-height: 1.8;
+    background-color: #fff;
+    color: #222222;
+}
+/*001*/
+h1 {
+    background-color:#28be73; 
+    color: #fff;
+    text-transform: uppercase;
+    padding: 100px 25px;
+    font-size: 40px;
+    font-family: verdana;
+    text-align: center;     
+}
+/*001*/
+h2{
+    font-family: verdana;
+    font-size: 30px;
+}
+/*001*/
+h3{
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+}
+/*001*/
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+/*001*/
+section{
+	margin-left: 50px;
+	margin-right: 50px;
+	text-align: left;
+}
+/*001*/
+table{
+    width: 50%;
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+}
+/*001*/
+img{
+    display:block;
+    margin:auto;
+}
+/*001*/
+li{
+    font-family: verdana;
+    font-size: 20px;
+}
+/*001*/
+video{
+    width: 550px ;
+    height: 412px; 
+    display:block;
+    margin:auto;
+}
+/*011*/
+.menu ul{
+    height: 40px;
+    width: 100%;
+    padding-left: 0;
+}
+/*011*/
+.menu li{
+    float: left;
+    list-style: none;
+    width: auto;
+    background-color: #28be73;
+    padding: 10px;
+    text-align: center;
+}
+/*012*/
+.menu li a {
+    
+    color: #1E1F20;
+    text-decoration: none;
+    }
+/*022*/
+.menu li:hover {
+    background-color: #87BACC;
+    }
