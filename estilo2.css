@@ -44,9 +44,6 @@ table{
     text-align: center;
     margin: auto;
 }
-td{
-    font-size: 40px;
-}
 /*001*/
 img{
     display:block;
@@ -99,5 +96,8 @@ video{
     }
     input[type=text], textarea {
         width:75%;
+    }
+    h3{
+        font-size: 35px; 
     }
   }
