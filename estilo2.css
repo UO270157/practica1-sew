@@ -40,9 +40,12 @@ section{
 table{
     width: 50%;
     font-family: verdana;
-    font-size: 40px;
+    font-size: 20px;
     text-align: center;
     margin: auto;
+}
+td{
+    font-size: 40px;
 }
 /*001*/
 img{
