@@ -86,3 +86,8 @@ video{
 .menu li:hover {
     background-color: #87BACC;
     }
+@media only screen and (max-width: 600px) {
+    body {
+        font-size: 35px;
+    }
+  }
