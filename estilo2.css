@@ -88,8 +88,10 @@ video{
     }
 @media only screen and (max-width: 600px) {
     body {
+        font-size: 35px;  
+    }
+    a{
         font-size: 35px;
-        
     }
     table {
         width:95%;
