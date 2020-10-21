@@ -1,7 +1,7 @@
 /*001*/
 body {
       text-align:center;
-      font: 400 40px verdana;
+      font: 400 20px verdana;
       line-height: 1.8;
       background-color: #fff;
 }
@@ -37,7 +37,7 @@ li:hover {
 
 @media only screen and (max-width: 600px) {
       body {
-            font-size: 18px;
+            font-size: 35px;
       }
 }
 
